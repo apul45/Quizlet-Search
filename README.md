@@ -6,3 +6,6 @@ The tool searches up your question on google, opens the Quizlet pages that match
 2. Enter how many results you want. 
       - Higher = Longer time, but better accuracy.
       - Lower = Shorter time, but a risk of getting the wrong result.
+
+
+**Sending too many requests will break the program**
